@@ -33,6 +33,10 @@ posts: number of posts to display
 
 == Changelog ==
 
+    = 1.0.1 - March 12 2020 =
+    
+        * Changed Meta from text-secondary to text-muted
+
     = 1.0.0 - February 29 2020 =
     
         * Initial release
