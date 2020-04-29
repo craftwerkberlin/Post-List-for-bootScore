@@ -1,6 +1,6 @@
 <?php
 /*Plugin Name: Post List for bootScore
-Plugin URI: https://bootscore.me
+Plugin URI: https://bootscore.me/plugins/post-list/
 Description: Post List for bootScore theme https://bootscore.me. Use Shortcode like this [post-list type="post" category="sample-category" order="ASC" orderby="title" posts="12"] and read readme.txt in PlugIn folder for options.
 Version: 1.0.0
 Author: Bastian Kreiter
